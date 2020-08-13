@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/doerlife",
+    "prod_url": "mysql://root:@localhost/doerlife",
+    "fb_url": "https://facebook.com/krsanjay11",
+    "tw_url": "https://twitter.com/the__doer",
+    "gh_url": "https://github.com/krsanjay11",
+    "blog_name": "life@fun",
+    "tagline": "A Blog Theme by programmers",
+    "gmail-user" : "kumarsanjayss77888@gmail.com",
+    "gmail-code" : "sanjay",
+    "about_text": " hi!! sanjay here and i am learning flask",
+    "no_of_posts": 4,
+    "login_img": "login.svg",
+    "admin_user": "sanjay@mail.com",
+    "admin_password": "12345",
+    "upload_location": "E:\\Programs\\python\\flask\\flask_1\\static"
+  }
+}
